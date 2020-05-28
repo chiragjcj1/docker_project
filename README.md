@@ -29,3 +29,8 @@ run this command in the folder where docker-compose file has been created docker
 to stop the server run this command in same folder where you have created your compose file docker-compose down 
 8. To access the webapp :-
 start the server and go to you browser and search http://localhost:2368/ or `http://192.168..x.x:8081
+![1](https://user-images.githubusercontent.com/64485505/83126523-8dd27380-a0f6-11ea-82c2-f8114a0e17dd.jpeg)
+![2](https://user-images.githubusercontent.com/64485505/83126531-90cd6400-a0f6-11ea-8e16-6ea389738acd.jpeg)
+![3](https://user-images.githubusercontent.com/64485505/83126534-91fe9100-a0f6-11ea-92e4-5fff805efd0b.jpeg)
+![4](https://user-images.githubusercontent.com/64485505/83126535-92972780-a0f6-11ea-9365-b1ce9aeb7d6b.jpeg)
+
